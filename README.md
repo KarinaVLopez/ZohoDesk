@@ -8,6 +8,6 @@
 <body>
     <h1>Bienvenido a Mi Página Web</h1>
     <p>Este es un ejemplo de una página web simple.</p>
-    <a href="https://www.bas.com.ar" target="_blank">Visita Ejemplo.com</a>
+    <a href="https://www.bas.com.ar" target="_blank">Visita a BAS.com.ar</a>
 </body>
 </html>
