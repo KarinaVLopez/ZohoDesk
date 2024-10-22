@@ -8,6 +8,13 @@
 <body>
     <h1>Bienvenido a Mi Página Web</h1>
     <p>Este es un ejemplo de una página web simple.</p>
-    <a href="https://www.bas.com.ar" target="_blank">Visita a Buenos Aires Software</a>
+    <a href="https://www.bas.com.ar" target="_blank">Visitanos en BSAS Software</a>
+
+    <script>
+        // Este script se ejecuta cuando la página se carga
+        window.onload = function() {
+            alert("¡Bienvenido a mi modesta página web!");
+        };
+    </script>
 </body>
 </html>
