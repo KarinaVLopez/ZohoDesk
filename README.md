@@ -8,7 +8,7 @@
 <body>
     <h1>Bienvenido a Mi Página Web</h1>
     <p>Este es un ejemplo de una página web simple.</p>
-    <a href="https://www.ejemplo.com" target="_blank">Visita Ejemplo.com</a>
+    <a href="https://www.bas.com.ar" target="_blank">Visitanos en nuestro sitio</a>
 
     <script>
         // Script de alerta al cargar
